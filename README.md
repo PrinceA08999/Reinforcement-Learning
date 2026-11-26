@@ -12,7 +12,7 @@ A collection of **16 Reinforcement Learning implementations** built in Python an
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/reinforcement-learning-foundations.git](https://github.com/YOUR_USERNAME/reinforcement-learning-foundations.git)
+   git clone [https://github.com/PrinceA08999/Reinforcement-Learning.git](https://github.com/PrinceA08999/Reinforcement-Learning.git)
    cd reinforcement-learning-foundations
    ```
 
