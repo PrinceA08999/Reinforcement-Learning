@@ -13,7 +13,7 @@ A collection of **16 Reinforcement Learning implementations** built in Python an
 1. Clone the repository:
    ```bash
    git clone [https://github.com/PrinceA08999/Reinforcement-Learning.git](https://github.com/PrinceA08999/Reinforcement-Learning.git)
-   cd reinforcement-learning-foundations
+   cd Reinforcement-Learning
    ```
 
 > Support for python 3.10 and below has been depreciated for Keras 3, and python 3.14 is not supported yet. Esure to install python 3.11, 3.12, or 3.13 for an error-free Keras installation.
